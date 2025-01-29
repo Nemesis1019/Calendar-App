@@ -1,0 +1,8 @@
+@use '/src/index.scss';
+
+.bg-calendar{
+    background-color:index.$aside-color;
+    font-family: index.$calendar-font;
+    color: black;
+    height: 100vh;
+}
