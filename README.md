@@ -24,7 +24,7 @@ La estructura de archivos que decidí utilizar es agrupar los componentes por se
 
 1.- Clonar el repositorio:
  
-	https://github.com/Nemesis1019/Calendar-App.git
+	git clone https://github.com/Nemesis1019/Calendar-App.git
 
 2.- Ir a la carpeta principal del proyecto:
 
