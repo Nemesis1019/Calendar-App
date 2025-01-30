@@ -108,12 +108,12 @@ const dispatch = useDispatch();
         <img
           onClick={closePopUp}
           className="top-0 left-0 z-10  w-[15px] h-[15px] absolute cursor-pointer mt-2 ml-2"
-          src="../../assets/icons/closeButton.svg"
+          src="/assets/icons/closeButton.svg"
         />
         <img
           onClick={handleDelete}
           className="top-0 right-0 z-10  w-[20px] h-[20px] absolute cursor-pointer mt-2 mr-2"
-          src="../../assets/icons/deleteIcon.svg"
+          src="/assets/icons/deleteIcon.svg"
           
         />
         <input
@@ -135,7 +135,7 @@ const dispatch = useDispatch();
 
           <img
             className="w-[20px] h-[20px]"
-            src="../../assets/icons/clockIcon.svg"
+            src="/assets/icons/clockIcon.svg"
           />
 
           <LocalizationProvider dateAdapter={AdapterDayjs}>

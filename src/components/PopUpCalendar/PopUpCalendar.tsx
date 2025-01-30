@@ -94,7 +94,7 @@ const dispatch = useDispatch();
         <img
           onClick={closePopUp}
           className="top-0 left-0 z-10  w-[15px] h-[15px] absolute cursor-pointer mt-2 ml-2"
-          src="../../assets/icons/closeButton.svg"
+          src="/assets/icons/closeButton.svg"
         />
         <input
           type="text"
@@ -112,7 +112,7 @@ const dispatch = useDispatch();
         <div className="flex flex-row m-3 justify-center items-center gap-2 ">
           <img
             className="w-[20px] h-[20px]"
-            src="../../assets/icons/clockIcon.svg"
+            src="/assets/icons/clockIcon.svg"
           />
           <LocalizationProvider dateAdapter={AdapterDayjs}>
             <MobileTimePicker

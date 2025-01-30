@@ -6,7 +6,7 @@ Un proyecto construido con [React](https://es.react.dev/) +[Vite](https://vite.d
 
 Calendar App consiste en el diseño y desarrollo de un calendario inspirado en las alternativas comunes que hay en el mercado para la asignación y manejo de eventos.
 
-![imagen](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/Captura.PNG?alt=media&token=e2db4632-71ff-4bb4-9f3d-db1688e1f5a1)
+![imagen](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/Captura20.PNG?alt=media&token=78f2dd97-b419-4ce7-8870-9342d67a45a3)
 
 ## Descripción de la solución
 
