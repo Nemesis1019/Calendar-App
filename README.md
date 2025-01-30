@@ -34,9 +34,9 @@ La estructura de archivos que decidí utilizar es agrupar los componentes por se
 
     npm i
 
-4.- Levantar un servidor de desarrollo local. Navega a 
+4.- Levantar un servidor de desarrollo local
 
-    ng serve
+    npm run dev
 
 El servidor de desarrollo local será accesible mediante este enlace,
 `http://localhost:5173/`
